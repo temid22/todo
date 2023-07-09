@@ -1,0 +1,43 @@
+.input {
+  height: 40px;
+  width: 300px;
+  outline: 0;
+  border: 1px solid purple;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 18px;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  font-size: 16px;
+  padding: 2px;
+  border-radius: 5px;
+  background: skyblue;
+  color: black;
+  font-weight: 500;
+  margin: 10px;
+  border: 1px solid transparent;
+}
+.button:hover {
+  background: #eee;
+  color: black;
+  border: 1px solid skyblue;
+}
+.deleteButton {
+  height: 30px;
+  width: 100px;
+  font-size: 16px;
+  padding: 2px;
+  border-radius: 5px;
+  background: pink;
+  color: black;
+  font-weight: 500;
+  margin: 10px;
+  border: 1px solid transparent;
+}
+.deleteButton:hover {
+  background: #eee;
+  color: black;
+  border: 1px solid pink;
+}
