@@ -9,3 +9,7 @@ All CRUD operations are implemented in this project.
 
 Email: user@gmail.com,
 Password : 123
+
+## Connection String
+
+dbURI =mongodb+srv://<username>:<password>@cluster0.xjdydm8.mongodb.net/Tasks?retryWrites=true&w=majority
